@@ -1,1 +1,1 @@
-filma-manurung.github.io/Project-Web-Digitalent-Scholarship-Kominfo
+https://github.com/filma-manurung/Project-Web-Digitalent-Scholarship-Kominfo
